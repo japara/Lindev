@@ -37,7 +37,7 @@ function Courses() {
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/html.svg" alt="" />
+          <img src="/css.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
             WEB პროგრამირება
             <br /> (HTML & CSS)
@@ -47,20 +47,20 @@ function Courses() {
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/html.svg" alt="" />
+          <img src="/js.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
-            WEB პროგრამირება
-            <br /> (HTML & CSS)
+            JAVASCRIPT-ის
+            <br /> კურსი
           </p>
           <button className="rounded-full border-[1px] mt-[10px] border-white max-h-full max-w-full w-[137px] h-[37px] text-[12px] text-white bg-gradient-to-r from-[#2662D6] to-[#002241]">
             შეიტყვეთ მეტი
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/html.svg" alt="" />
+          <img src="/ai.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
-            WEB პროგრამირება
-            <br /> (HTML & CSS)
+            AI & მანქანური სწავლება
+            <br /> სწავლება
           </p>
           <button className="rounded-full border-[1px] mt-[10px] border-white max-h-full max-w-full w-[137px] h-[37px] text-[12px] text-white bg-gradient-to-r from-[#2662D6] to-[#002241]">
             შეიტყვეთ მეტი

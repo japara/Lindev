@@ -16,14 +16,11 @@ export default function App() {
       </p>
 
       <Swiper
-        spaceBetween={14}
+        spaceBetween={24}
         slidesPerView={3}
-        pagination={{
-          type: "fraction",
-        }}
         navigation={true}
         modules={[Pagination, Navigation]}
-        className="mySwiper mt-[30px]"
+        className="mySwiper mt-[30px] pl-[60px]"
       >
         <SwiperSlide>
           <div className="flex rounded-2xl w-[302px] h-[355px] justify-center items-bottom slide-content bg-gradient-to-t from-[#2662D6] to-[#FFFFFF]">

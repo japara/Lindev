@@ -6,6 +6,7 @@ import Courses from "./components/Courses";
 import Test from "./components/test";
 import Carousel from "./components/Carousel";
 import Faq from "./components/Faq";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Carousel />
       <Courses />
       <Faq />
+      {/* <Footer /> */}
       <Test />
     </div>
   );

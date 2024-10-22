@@ -70,6 +70,27 @@ export default function App() {
           </div>
         </SwiperSlide>
       </Swiper>
+      <style jsx>{`
+          .swiper-button-prev,
+          .swiper-button-next {
+            height: 40px;
+            width: 40px;
+            align-items: center;
+          }
+
+          .swiper-button-prev::after,
+          .swiper-button-next::after {
+            border: 1px solid;
+            border-radius: 50%;
+            border-color: linear-gradient(180deg, #2662d6 0%, #3db8b1 100%);
+            width: 40px;
+            height: 40px;
+            font-size: 15px;
+            padding-top: 10px;
+          }
+
+          }
+        `}</style>
     </>
   );
 }

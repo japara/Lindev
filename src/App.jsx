@@ -17,8 +17,8 @@ function App() {
       <Carousel />
       <Courses />
       <Faq />
-      {/* <Footer /> */}
-      <Test />
+      <Footer />
+      {/* <Test /> */}
     </div>
   );
 }

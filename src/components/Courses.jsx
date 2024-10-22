@@ -7,7 +7,7 @@ function Courses() {
           <h2 className="bg-gradient-to-r ml-[79px] from-[#2763D6] to-[#0D2E6A] font-bold text-[36px] text-transparent bg-clip-text">
             კურსები
           </h2>
-          <img src="Rectangle 12.svg" alt="rectngle" />
+          <img src="./Rectangle 12.svg" alt="rectngle" />
         </div>
         <div className="flex justify-evenly pt-[30px] items-top w-[1062px] h-[340px] rounded-b-3xl rounded-l-3xl bg-gradient-to-r from-[#2662D6] to-[#3DB8B1] absolute">
           <p className="w-[222px] text-left font-bold text-[24px] text-white">
@@ -27,7 +27,7 @@ function Courses() {
       </div>
       <div className=" bottom-[-137px] relative flex justify-center gap-[24px]">
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/html.svg" alt="" />
+          <img src="./html.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
             WEB პროგრამირება
             <br /> (HTML & CSS)
@@ -37,7 +37,7 @@ function Courses() {
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/css.svg" alt="" />
+          <img src="./css.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
             WEB პროგრამირება
             <br /> (HTML & CSS)
@@ -47,7 +47,7 @@ function Courses() {
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/js.svg" alt="" />
+          <img src="./js.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
             JAVASCRIPT-ის
             <br /> კურსი
@@ -57,7 +57,7 @@ function Courses() {
           </button>
         </div>
         <div className="flex flex-col rounded-2xl w-[194px] h-[266px] justify-evenly items-center bg-[#E9EBEFCC] ">
-          <img src="/ai.svg" alt="" />
+          <img src="./ai.svg" alt="" />
           <p className="text-[12px] font-bold  text-transparent bg-clip-text bg-gradient-to-r from-[#2662D6] to-[#1B5350]">
             AI & მანქანური სწავლება
             <br /> სწავლება

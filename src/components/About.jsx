@@ -17,7 +17,7 @@ function About() {
         <div className=" flex fustify-center items-center">
           <img
             className="max-w-[50px] max-h-[50px] mr-[8px]"
-            src="/paper.svg"
+            src="./paper.svg"
             alt="paper"
           />
           <p className="bg-gradient-to-r from-[#2662D6] to-[#3DB8B1] text-transparent bg-clip-text font-bold text-[20px]">
@@ -27,7 +27,7 @@ function About() {
         <div className=" flex fustify-center items-center">
           <img
             className="max-w-[50px] max-h-[50px] mr-[8px]"
-            src="/paper.svg"
+            src="./paper.svg"
             alt="paper"
           />
           <p className="bg-gradient-to-r from-[#2662D6] to-[#3DB8B1] text-transparent bg-clip-text font-bold text-[20px]">
@@ -37,7 +37,7 @@ function About() {
         <div className=" flex fustify-center items-center">
           <img
             className="max-w-[50px] max-h-[50px] mr-[8px]"
-            src="/book.svg"
+            src="./book.svg"
             alt="book"
           />
           <p className="bg-gradient-to-r from-[#2662D6] to-[#3DB8B1] text-transparent bg-clip-text font-bold text-[20px]">

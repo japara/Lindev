@@ -1,7 +1,7 @@
 function Education() {
   return (
     <div className="flex justify-center items-center mt-[161px]">
-      <img src="/Educ.svg"></img>
+      <img src="./Educ.svg"></img>
       <div className=" flex justify-items-start  flex-col">
         <p className="bg-gradient-to-b from-[#2662D6] to-[#3DB8B1] text-transparent bg-clip-text font-bold text-[36px] text-left mb-[20px]">
           Our Education System <br /> Works For You

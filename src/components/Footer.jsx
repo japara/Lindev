@@ -70,19 +70,19 @@ function Footer() {
         <ul className="text-white text-left gap-[16px]">
           <li className="font-bold text-[18px]">გამოგვყევი</li>
           <li className="text-[16px] font-[400] flex gap-[6px]">
-            <img src="/facebook.svg" alt="facebook-logo" />
+            <img src="./facebook.svg" alt="facebook-logo" />
             Facebook
           </li>
           <li className="text-[16px] font-[400] flex gap-[6px]">
-            <img src="/youtube.svg" alt="youtube-logo" />
+            <img src="./youtube.svg" alt="youtube-logo" />
             Youtube
           </li>
           <li className="text-[16px] font-[400] flex gap-[6px]">
-            <img src="/instagram.svg" alt="instagram-logo" />
+            <img src="./instagram.svg" alt="instagram-logo" />
             Instagram
           </li>
           <li className="text-[16px] font-[400] flex gap-[6px]">
-            <img src="tiktok.svg" alt="tiktok-logo" />
+            <img src="./tiktok.svg" alt="tiktok-logo" />
             Tik-Tok
           </li>
         </ul>

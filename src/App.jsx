@@ -3,8 +3,9 @@ import Header from "./components/Header";
 import About from "./components/About";
 import Education from "./components/Education";
 import Courses from "./components/Courses";
-// import Test from "./components/test";
+import Test from "./components/test";
 import Carousel from "./components/Carousel";
+import Faq from "./components/Faq";
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
       <Education />
       <Carousel />
       <Courses />
+      <Faq />
+      <Test />
     </div>
   );
 }
